@@ -11,16 +11,23 @@ authoritarian,1,en,1.0,RelatedTo,/c/en/authoritarian,authority
 power,1,en,1.0,RelatedTo,/c/en/power,authority
 autoridad,1,es,1.0,Synonym,/c/es/autoridad,authority
 authorization,1,en,1.0,RelatedTo,/c/en/authorization,authority
+government,1,en,1.0,RelatedTo,/c/en/government,authority
 authoritative,1,en,1.0,RelatedTo,/c/en/authoritative,authority
 author,1,en,1.0,RelatedTo,/c/en/author,authority
+wrong,1,en,1.0,HasProperty,/c/en/wrong,authority
+authority,1,en,0.5,Synonym,/c/en/authority,authority
 nation,1,en,7.052942648285182,RelatedTo,/c/en/nation,country
 land,1,en,4.638534251247909,RelatedTo,/c/en/land,country
+states,1,en,4.154515615568198,RelatedTo,/c/en/states,country
+state,1,en,4.042771326701524,RelatedTo,/c/en/state,country
 a CONTINENT,2,en,4.0,AtLocation,/c/en/continent,country
+usa,1,en,3.327461494893667,RelatedTo,/c/en/usa,country
 place,1,en,3.16227766016838,RelatedTo,/c/en/place,country
 music,1,en,2.9318935860634507,RelatedTo,/c/en/music,country
 america,1,en,2.5314027731674784,RelatedTo,/c/en/america,country
 continent,1,en,2.504396134799764,RelatedTo,/c/en/continent,country
 united,1,en,2.2458851261807666,RelatedTo,/c/en/united,country
+united states,2,en,2.0976176963403024,RelatedTo,/c/en/united_states,country
 area,1,en,2.030763403255042,RelatedTo,/c/en/area,country
 administrative district,2,en,2.0,IsA,/c/en/administrative_district,country
 geographical area,2,en,2.0,IsA,/c/en/geographical_area,country
@@ -29,9 +36,11 @@ france,1,en,1.7249999999999996,RelatedTo,/c/en/france,country
 region,1,en,1.6639999999999997,RelatedTo,/c/en/region,country
 canada,1,en,1.601,RelatedTo,/c/en/canada,country
 england,1,en,1.5979999999999999,RelatedTo,/c/en/england,country
+political,1,en,1.5919999999999996,RelatedTo,/c/en/political,country
 city,1,en,1.475,DistinctFrom,/c/en/city,country
 division,1,en,1.4210000000000003,RelatedTo,/c/en/division,country
 borders,1,en,1.3890000000000002,RelatedTo,/c/en/borders,country
+government,1,en,1.1509999999999998,RelatedTo,/c/en/government,country
 nation state,2,en,1.1320000000000001,RelatedTo,/c/en/nation_state,country
 location,1,en,1.1139999999999999,RelatedTo,/c/en/location,country
 flag,1,en,1.06,RelatedTo,/c/en/flag,country
@@ -44,15 +53,9 @@ Asia,1,en,1.0,AtLocation,/c/en/asia,country
 battle another country,3,en,1.0,CapableOf,/c/en/battle_another_country,country
 a,1,en,1.0,HasProperty,/c/en/a,country
 inhabitants,1,en,1.0,HasA,/c/en/inhabitants,country
+America,1,en,1.0,AtLocation,/c/en/america,country
 país,1,es,1.0,Synonym,/c/es/país,country
 assemble provinces,2,en,1.0,UsedFor,/c/en/assemble_provinces,country
-wa4,1,en,1.0,AtLocation,/c/en/wa4,country
-appendix:countries of world,3,en,1.0,RelatedTo,/c/en/appendix:countries_of_world,country
-a region,2,en,1.0,AtLocation,/c/en/region,country
-sovereign rights,2,en,1.0,HasA,/c/en/sovereign_rights,country
-the world,2,en,1.0,AtLocation,/c/en/world,country
-honor a soldier,3,en,1.0,CapableOf,/c/en/honor_soldier,country
-country music,2,en,1.0,RelatedTo,/c/en/country_music,country
 urban,1,en,0.5009999999999999,Antonym,/c/en/urban,country
 urban city,2,en,0.20100000000000007,Antonym,/c/en/urban_city,country
 metal,1,en,0.16699999999999982,Antonym,/c/en/metal,country
@@ -75,13 +78,16 @@ video games,2,en,1.0,HasContext,/c/en/video_games,health
 prosperity,1,en,1.0,RelatedTo,/c/en/prosperity,health
 organism,1,en,1.0,RelatedTo,/c/en/organism,health
 physical,1,en,1.0,RelatedTo,/c/en/physical,health
+whole,1,en,1.0,DerivedFrom,/c/en/whole,health
 heal,1,en,1.0,RelatedTo,/c/en/heal,health
 salud,1,es,1.0,Synonym,/c/es/salud,health
 social,1,en,1.0,RelatedTo,/c/en/social,health
 illness,1,en,1.0,DistinctFrom,/c/en/illness,health
+state,1,en,1.0,RelatedTo,/c/en/state,health
 disease,1,en,1.0,RelatedTo,/c/en/disease,health
 sickness,1,en,1.0,DistinctFrom,/c/en/sickness,health
 robustness,1,en,1.0,Synonym,/c/en/robustness,health
+important,1,en,1.0,HasProperty,/c/en/important,health
 psychological,1,en,1.0,RelatedTo,/c/en/psychological,health
 wellness,1,en,1.0,RelatedTo,/c/en/wellness,health
 balance,1,en,1.0,RelatedTo,/c/en/balance,health
@@ -93,8 +99,6 @@ fitness,1,en,0.5379999999999998,RelatedTo,/c/en/fitness,health
 being well,2,en,0.5329999999999999,RelatedTo,/c/en/being_well,health
 status,1,en,0.5270000000000001,RelatedTo,/c/en/status,health
 health,1,en,0.5,Synonym,/c/en/health,health
-body condition,2,en,0.48,RelatedTo,/c/en/body_condition,health
-care,1,en,0.41100000000000003,RelatedTo,/c/en/care,health
 ill,1,en,0.387,DistinctFrom,/c/en/ill,health
 fat,1,en,0.17300000000000004,Antonym,/c/en/fat,health
 sickly,1,en,0.14100000000000001,Antonym,/c/en/sickly,health
@@ -112,6 +116,7 @@ certain rules,2,en,1.0,HasA,/c/en/certain_rules,justice
 injustice,1,en,1.0,Antonym,/c/en/injustice,justice
 fairness,1,en,1.0,RelatedTo,/c/en/fairness,justice
 title,1,en,1.0,RelatedTo,/c/en/title,justice
+judicial,1,en,1.0,RelatedTo,/c/en/judicial,justice
 capitalize,1,en,1.0,RelatedTo,/c/en/capitalize,justice
 law,1,en,1.0,RelatedTo,/c/en/law,justice
 justiciar,1,en,1.0,Synonym,/c/en/justiciar,justice
@@ -123,6 +128,7 @@ justicia,1,es,1.0,Synonym,/c/es/justicia,justice
 wrong,1,en,1.0,RelatedTo,/c/en/wrong,justice
 fair,1,en,1.0,RelatedTo,/c/en/fair,justice
 justedad,1,es,1.0,Synonym,/c/es/justedad,justice
+civil,1,en,1.0,RelatedTo,/c/en/civil,justice
 conform,1,en,1.0,RelatedTo,/c/en/conform,justice
 correctness,1,en,1.0,RelatedTo,/c/en/correctness,justice
 right wrongs,2,en,1.0,CapableOf,/c/en/right_wrongs,justice
@@ -137,8 +143,6 @@ law system,2,en,0.20400000000000018,RelatedTo,/c/en/law_system,justice
 retribution,1,en,0.17300000000000004,RelatedTo,/c/en/retribution,justice
 idea,1,en,0.17300000000000004,RelatedTo,/c/en/idea,justice
 liberty,1,en,0.16800000000000015,RelatedTo,/c/en/liberty,justice
-liberty equality,2,en,0.16800000000000015,RelatedTo,/c/en/liberty_equality,justice
-court ideal,2,en,0.16400000000000015,RelatedTo,/c/en/court_ideal,justice
 unfair,1,en,0.13100000000000023,Antonym,/c/en/unfair,justice
 a bank,2,en,7.745966692414834,AtLocation,/c/en/bank,money
 a wallet,2,en,7.483314773547882,AtLocation,/c/en/wallet,money
@@ -204,6 +208,7 @@ legislative,1,en,1.0,RelatedTo,/c/en/legislative,parliament
 appoint,1,en,1.0,RelatedTo,/c/en/appoint,parliament
 member,1,en,1.0,RelatedTo,/c/en/member,parliament
 parliament,1,en,0.5,Synonym,/c/en/parliament,parliament
+government,1,en,0.39800000000000013,RelatedTo,/c/en/government,parliament
 british government,2,en,0.20100000000000007,RelatedTo,/c/en/british_government,parliament
 british,1,en,0.20100000000000007,RelatedTo,/c/en/british,parliament
 english,1,en,0.19700000000000006,RelatedTo,/c/en/english,parliament
@@ -252,6 +257,7 @@ help people,2,en,1.0,CapableOf,/c/en/help_people,police
 activity,1,en,2.0,IsA,/c/en/activity,politics
 profession,1,en,2.0,IsA,/c/en/profession,politics
 social science,2,en,2.0,IsA,/c/en/social_science,politics
+government,1,en,2.0,HasContext,/c/en/government,politics
 affairs,1,en,2.0,IsA,/c/en/affairs,politics
 politics,1,en,2.0,HasContext,/c/en/politics,politics
 opinion,1,en,2.0,IsA,/c/en/opinion,politics
@@ -263,7 +269,10 @@ diplomacy,1,en,1.0,RelatedTo,/c/en/diplomacy,politics
 polite,1,en,1.0,RelatedTo,/c/en/polite,politics
 policy,1,en,1.0,RelatedTo,/c/en/policy,politics
 politic,1,en,1.0,FormOf,/c/en/politic,politics
+police,1,en,1.0,RelatedTo,/c/en/police,politics
+the office,2,en,1.0,AtLocation,/c/en/office,politics
 divide families,2,en,1.0,CapableOf,/c/en/divide_families,politics
+polity,1,en,1.0,RelatedTo,/c/en/polity,politics
 política,1,es,1.0,Synonym,/c/es/política,politics
 a university,2,en,1.0,AtLocation,/c/en/university,politics
 wage war,2,en,1.0,CausesDesire,/c/en/wage_war,politics
