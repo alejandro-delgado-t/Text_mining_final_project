@@ -1,0 +1,320 @@
+label,num_words,language,weight,type_relation,term_conceptnet,input_term
+agency,1,en,2.0,Synonym,/c/en/agency,authority
+control,1,en,2.0,IsA,/c/en/control,authority
+expert,1,en,2.0,IsA,/c/en/expert,authority
+permission,1,en,2.0,IsA,/c/en/permission,authority
+person,1,en,2.0,IsA,/c/en/person,authority
+book,1,en,2.0,IsA,/c/en/book,authority
+assurance,1,en,2.0,Synonym,/c/en/assurance,authority
+enforce,1,en,1.0,RelatedTo,/c/en/enforce,authority
+authoritarian,1,en,1.0,RelatedTo,/c/en/authoritarian,authority
+power,1,en,1.0,RelatedTo,/c/en/power,authority
+autoridad,1,es,1.0,Synonym,/c/es/autoridad,authority
+authorization,1,en,1.0,RelatedTo,/c/en/authorization,authority
+government,1,en,1.0,RelatedTo,/c/en/government,authority
+authoritative,1,en,1.0,RelatedTo,/c/en/authoritative,authority
+author,1,en,1.0,RelatedTo,/c/en/author,authority
+wrong,1,en,1.0,HasProperty,/c/en/wrong,authority
+authority,1,en,0.5,Synonym,/c/en/authority,authority
+nation,1,en,7.052942648285182,RelatedTo,/c/en/nation,country
+land,1,en,4.638534251247909,RelatedTo,/c/en/land,country
+states,1,en,4.154515615568198,RelatedTo,/c/en/states,country
+state,1,en,4.042771326701524,RelatedTo,/c/en/state,country
+a CONTINENT,2,en,4.0,AtLocation,/c/en/continent,country
+usa,1,en,3.327461494893667,RelatedTo,/c/en/usa,country
+place,1,en,3.16227766016838,RelatedTo,/c/en/place,country
+music,1,en,2.9318935860634507,RelatedTo,/c/en/music,country
+america,1,en,2.5314027731674784,RelatedTo,/c/en/america,country
+continent,1,en,2.504396134799764,RelatedTo,/c/en/continent,country
+united,1,en,2.2458851261807666,RelatedTo,/c/en/united,country
+united states,2,en,2.0976176963403024,RelatedTo,/c/en/united_states,country
+area,1,en,2.030763403255042,RelatedTo,/c/en/area,country
+administrative district,2,en,2.0,IsA,/c/en/administrative_district,country
+geographical area,2,en,2.0,IsA,/c/en/geographical_area,country
+rural,1,en,1.8849999999999998,RelatedTo,/c/en/rural,country
+france,1,en,1.7249999999999996,RelatedTo,/c/en/france,country
+region,1,en,1.6639999999999997,RelatedTo,/c/en/region,country
+canada,1,en,1.601,RelatedTo,/c/en/canada,country
+england,1,en,1.5979999999999999,RelatedTo,/c/en/england,country
+political,1,en,1.5919999999999996,RelatedTo,/c/en/political,country
+city,1,en,1.475,DistinctFrom,/c/en/city,country
+division,1,en,1.4210000000000003,RelatedTo,/c/en/division,country
+borders,1,en,1.3890000000000002,RelatedTo,/c/en/borders,country
+government,1,en,1.1509999999999998,RelatedTo,/c/en/government,country
+nation state,2,en,1.1320000000000001,RelatedTo,/c/en/nation_state,country
+location,1,en,1.1139999999999999,RelatedTo,/c/en/location,country
+flag,1,en,1.06,RelatedTo,/c/en/flag,country
+farms,1,en,1.0150000000000001,RelatedTo,/c/en/farms,country
+be invaded,2,en,1.0,NotDesires,/c/en/invaded,country
+genitalia,1,en,1.0,RelatedTo,/c/en/genitalia,country
+people live in,3,en,1.0,UsedFor,/c/en/people_live_in,country
+the great outdoors,3,en,1.0,AtLocation,/c/en/great_outdoors,country
+Asia,1,en,1.0,AtLocation,/c/en/asia,country
+battle another country,3,en,1.0,CapableOf,/c/en/battle_another_country,country
+a,1,en,1.0,HasProperty,/c/en/a,country
+inhabitants,1,en,1.0,HasA,/c/en/inhabitants,country
+America,1,en,1.0,AtLocation,/c/en/america,country
+país,1,es,1.0,Synonym,/c/es/país,country
+assemble provinces,2,en,1.0,UsedFor,/c/en/assemble_provinces,country
+urban,1,en,0.5009999999999999,Antonym,/c/en/urban,country
+urban city,2,en,0.20100000000000007,Antonym,/c/en/urban_city,country
+metal,1,en,0.16699999999999982,Antonym,/c/en/metal,country
+being,1,en,2.4746716953971895,RelatedTo,/c/en/being,health
+well,1,en,2.442949037536396,RelatedTo,/c/en/well,health
+wellbeing,1,en,2.0,IsA,/c/en/wellbeing,health
+condition,1,en,2.0,IsA,/c/en/condition,health
+good,1,en,1.983,RelatedTo,/c/en/good,health
+well being,2,en,1.8290000000000002,RelatedTo,/c/en/well_being,health
+body,1,en,1.625,RelatedTo,/c/en/body,health
+healthiness,1,en,1.0,Synonym,/c/en/healthiness,health
+sanidad,1,es,1.0,Synonym,/c/es/sanidad,health
+heartiness,1,en,1.0,Synonym,/c/en/heartiness,health
+malfunction,1,en,1.0,RelatedTo,/c/en/malfunction,health
+toast,1,en,1.0,RelatedTo,/c/en/toast,health
+everyone,1,en,1.0,UsedFor,/c/en/everyone,health
+function,1,en,1.0,RelatedTo,/c/en/function,health
+mental,1,en,1.0,RelatedTo,/c/en/mental,health
+video games,2,en,1.0,HasContext,/c/en/video_games,health
+prosperity,1,en,1.0,RelatedTo,/c/en/prosperity,health
+organism,1,en,1.0,RelatedTo,/c/en/organism,health
+physical,1,en,1.0,RelatedTo,/c/en/physical,health
+whole,1,en,1.0,DerivedFrom,/c/en/whole,health
+heal,1,en,1.0,RelatedTo,/c/en/heal,health
+salud,1,es,1.0,Synonym,/c/es/salud,health
+social,1,en,1.0,RelatedTo,/c/en/social,health
+illness,1,en,1.0,DistinctFrom,/c/en/illness,health
+state,1,en,1.0,RelatedTo,/c/en/state,health
+disease,1,en,1.0,RelatedTo,/c/en/disease,health
+sickness,1,en,1.0,DistinctFrom,/c/en/sickness,health
+robustness,1,en,1.0,Synonym,/c/en/robustness,health
+important,1,en,1.0,HasProperty,/c/en/important,health
+psychological,1,en,1.0,RelatedTo,/c/en/psychological,health
+wellness,1,en,1.0,RelatedTo,/c/en/wellness,health
+balance,1,en,1.0,RelatedTo,/c/en/balance,health
+sick,1,en,0.9710000000000001,DistinctFrom,/c/en/sick,health
+medical,1,en,0.722,RelatedTo,/c/en/medical,health
+feeling good,2,en,0.657,RelatedTo,/c/en/feeling_good,health
+feeling,1,en,0.657,RelatedTo,/c/en/feeling,health
+fitness,1,en,0.5379999999999998,RelatedTo,/c/en/fitness,health
+being well,2,en,0.5329999999999999,RelatedTo,/c/en/being_well,health
+status,1,en,0.5270000000000001,RelatedTo,/c/en/status,health
+health,1,en,0.5,Synonym,/c/en/health,health
+ill,1,en,0.387,DistinctFrom,/c/en/ill,health
+fat,1,en,0.17300000000000004,Antonym,/c/en/fat,health
+sickly,1,en,0.14100000000000001,Antonym,/c/en/sickly,health
+death,1,en,0.121,Antonym,/c/en/death,health
+natural virtue,2,en,2.0,IsA,/c/en/natural_virtue,justice
+court,1,en,2.0,RelatedTo,/c/en/court,justice
+Department of Justice,3,en,2.0,Synonym,/c/en/department_of_justice,justice
+judgment,1,en,2.0,IsA,/c/en/judgment,justice
+judge,1,en,2.0,Synonym,/c/en/judge,justice
+righteousness,1,en,2.0,IsA,/c/en/righteousness,justice
+just,1,en,1.0,RelatedTo,/c/en/just,justice
+judiciary,1,en,1.0,RelatedTo,/c/en/judiciary,justice
+justeza,1,es,1.0,Synonym,/c/es/justeza,justice
+certain rules,2,en,1.0,HasA,/c/en/certain_rules,justice
+injustice,1,en,1.0,Antonym,/c/en/injustice,justice
+fairness,1,en,1.0,RelatedTo,/c/en/fairness,justice
+title,1,en,1.0,RelatedTo,/c/en/title,justice
+judicial,1,en,1.0,RelatedTo,/c/en/judicial,justice
+capitalize,1,en,1.0,RelatedTo,/c/en/capitalize,justice
+law,1,en,1.0,RelatedTo,/c/en/law,justice
+justiciar,1,en,1.0,Synonym,/c/en/justiciar,justice
+wrongdoing,1,en,1.0,RelatedTo,/c/en/wrongdoing,justice
+blind,1,en,1.0,HasProperty,/c/en/blind,justice
+impartiality,1,en,1.0,RelatedTo,/c/en/impartiality,justice
+all people,2,en,1.0,UsedFor,/c/en/all_people,justice
+justicia,1,es,1.0,Synonym,/c/es/justicia,justice
+wrong,1,en,1.0,RelatedTo,/c/en/wrong,justice
+fair,1,en,1.0,RelatedTo,/c/en/fair,justice
+justedad,1,es,1.0,Synonym,/c/es/justedad,justice
+civil,1,en,1.0,RelatedTo,/c/en/civil,justice
+conform,1,en,1.0,RelatedTo,/c/en/conform,justice
+correctness,1,en,1.0,RelatedTo,/c/en/correctness,justice
+right wrongs,2,en,1.0,CapableOf,/c/en/right_wrongs,justice
+judicious,1,en,1.0,RelatedTo,/c/en/judicious,justice
+alleged,1,en,1.0,RelatedTo,/c/en/alleged,justice
+punishment,1,en,1.0,RelatedTo,/c/en/punishment,justice
+system,1,en,0.3639999999999999,RelatedTo,/c/en/system,justice
+scales,1,en,0.355,RelatedTo,/c/en/scales,justice
+equality,1,en,0.32699999999999996,RelatedTo,/c/en/equality,justice
+scales of,2,en,0.21700000000000008,RelatedTo,/c/en/scales_of,justice
+law system,2,en,0.20400000000000018,RelatedTo,/c/en/law_system,justice
+retribution,1,en,0.17300000000000004,RelatedTo,/c/en/retribution,justice
+idea,1,en,0.17300000000000004,RelatedTo,/c/en/idea,justice
+liberty,1,en,0.16800000000000015,RelatedTo,/c/en/liberty,justice
+unfair,1,en,0.13100000000000023,Antonym,/c/en/unfair,justice
+a bank,2,en,7.745966692414834,AtLocation,/c/en/bank,money
+a wallet,2,en,7.483314773547882,AtLocation,/c/en/wallet,money
+cash,1,en,5.338164478545036,RelatedTo,/c/en/cash,money
+currency,1,en,5.214211349763261,RelatedTo,/c/en/currency,money
+a pocket,2,en,4.898979485566356,AtLocation,/c/en/pocket,money
+dollars,1,en,4.544447161096715,RelatedTo,/c/en/dollars,money
+coins,1,en,4.277382377108691,RelatedTo,/c/en/coins,money
+value,1,en,3.2972715993681803,RelatedTo,/c/en/value,money
+paper,1,en,3.17742033731768,RelatedTo,/c/en/paper,money
+dollar,1,en,3.1343260838655578,RelatedTo,/c/en/dollar,money
+green,1,en,3.1304951684997055,RelatedTo,/c/en/green,money
+bills,1,en,2.9725410005582766,RelatedTo,/c/en/bills,money
+buy food,2,en,2.82842712474619,CapableOf,/c/en/buy_food,money
+cents,1,en,2.1391587131393504,RelatedTo,/c/en/cents,money
+buying,1,en,2.0396078054371145,RelatedTo,/c/en/buying,money
+fix a computer,3,en,2.0,CausesDesire,/c/en/fix_computer,money
+medium of exchange,3,en,2.0,IsA,/c/en/medium_of_exchange,money
+money supply,2,en,2.0,PartOf,/c/en/money_supply,money
+pay for something,3,en,2.0,UsedFor,/c/en/pay_for,money
+a casino,2,en,2.0,AtLocation,/c/en/casino,money
+wealth,1,en,2.0,IsA,/c/en/wealth,money
+saving,1,en,2.0,UsedFor,/c/en/saving,money
+buy Christmas presents,3,en,2.0,CausesDesire,/c/en/buy_christmas_presents,money
+the sock drawer,3,en,2.0,AtLocation,/c/en/sock_drawer,money
+the purse,2,en,2.0,AtLocation,/c/en/purse,money
+the supermarket,2,en,2.0,AtLocation,/c/en/supermarket,money
+a cash register,3,en,2.0,AtLocation,/c/en/cash_register,money
+obtain things,2,en,2.0,UsedFor,/c/en/obtain_things,money
+a vault,2,en,2.0,AtLocation,/c/en/vault,money
+pay for sex,3,en,2.0,UsedFor,/c/en/pay_for_sex,money
+spending,1,en,1.323,RelatedTo,/c/en/spending,money
+dollars cents,2,en,1.3010000000000002,RelatedTo,/c/en/dollars_cents,money
+payment,1,en,1.298,RelatedTo,/c/en/payment,money
+banks,1,en,1.241,RelatedTo,/c/en/banks,money
+wallet,1,en,1.174,RelatedTo,/c/en/wallet,money
+coins bills,2,en,1.1440000000000001,RelatedTo,/c/en/coins_bills,money
+bill,1,en,1.1280000000000001,RelatedTo,/c/en/bill,money
+term,1,en,1.0750000000000002,RelatedTo,/c/en/term,money
+be coming in,3,en,1.0,CapableOf,/c/en/coming_in,money
+the carpet,2,en,1.0,AtLocation,/c/en/carpet,money
+United Kingdom,2,en,2.0,HasContext,/c/en/united_kingdom,parliament
+legislature,1,en,2.0,IsA,/c/en/legislature,parliament
+fantan,1,en,2.0,Synonym,/c/en/fantan,parliament
+ordinal number,2,en,1.0,RelatedTo,/c/en/ordinal_number,parliament
+judicial,1,en,1.0,RelatedTo,/c/en/judicial,parliament
+debate,1,en,1.0,RelatedTo,/c/en/debate,parliament
+gingerbread,1,en,1.0,RelatedTo,/c/en/gingerbread,parliament
+legislative organization,2,en,1.0,IsA,/c/en/legislative_organization,parliament
+historical,1,en,1.0,HasContext,/c/en/historical,parliament
+flock,1,en,1.0,Synonym,/c/en/flock,parliament
+parliament cake,2,en,1.0,RelatedTo,/c/en/parliament_cake,parliament
+political,1,en,1.0,RelatedTo,/c/en/political,parliament
+owl,1,en,1.0,RelatedTo,/c/en/owl,parliament
+council,1,en,1.0,RelatedTo,/c/en/council,parliament
+rook,1,en,1.0,RelatedTo,/c/en/rook,parliament
+legal government organization,3,en,1.0,IsA,/c/en/legal_government_organization,parliament
+adjective,1,en,1.0,RelatedTo,/c/en/adjective,parliament
+institution,1,en,1.0,RelatedTo,/c/en/institution,parliament
+parlamento,1,es,1.0,Synonym,/c/es/parlamento,parliament
+united kingdom,2,en,1.0,RelatedTo,/c/en/united_kingdom,parliament
+legislative,1,en,1.0,RelatedTo,/c/en/legislative,parliament
+appoint,1,en,1.0,RelatedTo,/c/en/appoint,parliament
+member,1,en,1.0,RelatedTo,/c/en/member,parliament
+parliament,1,en,0.5,Synonym,/c/en/parliament,parliament
+government,1,en,0.39800000000000013,RelatedTo,/c/en/government,parliament
+british government,2,en,0.20100000000000007,RelatedTo,/c/en/british_government,parliament
+british,1,en,0.20100000000000007,RelatedTo,/c/en/british,parliament
+english,1,en,0.19700000000000006,RelatedTo,/c/en/english,parliament
+english government,2,en,0.19700000000000006,RelatedTo,/c/en/english_government,parliament
+congress,1,en,0.13900000000000023,RelatedTo,/c/en/congress,parliament
+tail a suspect,3,en,3.4641016151377544,CapableOf,/c/en/tail_suspect,police
+donut shop,2,en,2.82842712474619,AtLocation,/c/en/donut_shop,police
+patrol,1,en,2.0,Synonym,/c/en/patrol,police
+law enforcement agency,3,en,2.0,IsA,/c/en/law_enforcement_agency,police
+force,1,en,2.0,IsA,/c/en/force,police
+direct traffic,2,en,2.0,CapableOf,/c/en/direct_traffic,police
+guard banks,2,en,1.0,CapableOf,/c/en/guard_banks,police
+government,1,en,1.0,PartOf,/c/en/government,police
+free a prisoner,3,en,1.0,CapableOf,/c/en/free_prisoner,police
+hurry drivers,2,en,1.0,CapableOf,/c/en/hurry_drivers,police
+case a building,3,en,1.0,CapableOf,/c/en/case_building,police
+arrest,1,en,1.0,CapableOf,/c/en/arrest,police
+law enforcement,2,en,1.0,RelatedTo,/c/en/law_enforcement,police
+bring misery,2,en,1.0,CapableOf,/c/en/bring_misery,police
+arm themselves,2,en,1.0,CapableOf,/c/en/arm_themselves,police
+catch a thief,3,en,1.0,CapableOf,/c/en/catch_thief,police
+carry a gun,3,en,1.0,CapableOf,/c/en/carry_gun,police
+public,1,en,1.0,RelatedTo,/c/en/public,police
+the police station,3,en,1.0,AtLocation,/c/en/police_station,police
+arm their weapons,3,en,1.0,CapableOf,/c/en/arm_weapons,police
+book a criminal,3,en,1.0,CapableOf,/c/en/book_criminal,police
+order,1,en,1.0,RelatedTo,/c/en/order,police
+board vessels,2,en,1.0,CapableOf,/c/en/board_vessels,police
+caribbean,1,en,1.0,HasContext,/c/en/caribbean,police
+notice problems,2,en,1.0,CapableOf,/c/en/notice_problems,police
+scare people,2,en,1.0,UsedFor,/c/en/scare_people,police
+force the law,3,en,1.0,CapableOf,/c/en/force_law,police
+corner a suspect,3,en,1.0,CapableOf,/c/en/corner_suspect,police
+stop speeding cars,3,en,1.0,CapableOf,/c/en/stop_speeding_cars,police
+job,1,en,1.0,IsA,/c/en/job,police
+tail a criminal,3,en,1.0,CapableOf,/c/en/tail_criminal,police
+corner a criminal,3,en,1.0,CapableOf,/c/en/corner_criminal,police
+move a car,3,en,1.0,CausesDesire,/c/en/move_car,police
+maintain,1,en,1.0,RelatedTo,/c/en/maintain,police
+hunting the thieves,3,en,1.0,IsA,/c/en/hunting_thieves,police
+people,1,en,1.0,IsA,/c/en/people,police
+legal,1,en,1.0,RelatedTo,/c/en/legal,police
+regional,1,en,1.0,HasContext,/c/en/regional,police
+guard prisoners,2,en,1.0,CapableOf,/c/en/guard_prisoners,police
+help people,2,en,1.0,CapableOf,/c/en/help_people,police
+activity,1,en,2.0,IsA,/c/en/activity,politics
+profession,1,en,2.0,IsA,/c/en/profession,politics
+social science,2,en,2.0,IsA,/c/en/social_science,politics
+government,1,en,2.0,HasContext,/c/en/government,politics
+affairs,1,en,2.0,IsA,/c/en/affairs,politics
+politics,1,en,2.0,HasContext,/c/en/politics,politics
+opinion,1,en,2.0,IsA,/c/en/opinion,politics
+social relation,2,en,2.0,IsA,/c/en/social_relation,politics
+methodology,1,en,1.0,RelatedTo,/c/en/methodology,politics
+social event,2,en,1.0,IsA,/c/en/social_event,politics
+what politicians do,3,en,1.0,IsA,/c/en/what_politicians_do,politics
+diplomacy,1,en,1.0,RelatedTo,/c/en/diplomacy,politics
+polite,1,en,1.0,RelatedTo,/c/en/polite,politics
+policy,1,en,1.0,RelatedTo,/c/en/policy,politics
+politic,1,en,1.0,FormOf,/c/en/politic,politics
+police,1,en,1.0,RelatedTo,/c/en/police,politics
+the office,2,en,1.0,AtLocation,/c/en/office,politics
+divide families,2,en,1.0,CapableOf,/c/en/divide_families,politics
+polity,1,en,1.0,RelatedTo,/c/en/polity,politics
+política,1,es,1.0,Synonym,/c/es/política,politics
+a university,2,en,1.0,AtLocation,/c/en/university,politics
+wage war,2,en,1.0,CausesDesire,/c/en/wage_war,politics
+spread ideas,2,en,1.0,CapableOf,/c/en/spread_ideas,politics
+human leadership interaction,3,en,1.0,DefinedAs,/c/en/human_leadership_interaction,politics
+north america,2,en,4.47213595499958,AtLocation,/c/en/north_america,united_states
+a map,2,en,3.4641016151377544,AtLocation,/c/en/map,united_states
+the western hemisphere,3,en,2.82842712474619,AtLocation,/c/en/western_hemisphere,united_states
+America,1,en,2.82842712474619,AtLocation,/c/en/america,united_states
+North America,2,en,2.0,PartOf,/c/en/north_america,united_states
+freedom and refuge,3,en,2.0,UsedFor,/c/en/freedom_and_refuge,united_states
+fifty states,2,en,2.0,HasA,/c/en/fifty_states,united_states
+living in,2,en,2.0,UsedFor,/c/en/living_in,united_states
+protection,1,en,2.0,UsedFor,/c/en/protection,united_states
+United States government,3,en,2.0,Synonym,/c/en/united_states_government,united_states
+a history book,3,en,2.0,AtLocation,/c/en/history_book,united_states
+a democratic government,3,en,2.0,HasA,/c/en/democratic_government,united_states
+the northern hemisphere,3,en,2.0,AtLocation,/c/en/northern_hemisphere,united_states
+protecting its citizens,3,en,2.0,UsedFor,/c/en/protecting_citizens,united_states
+a free country,3,en,2.0,IsA,/c/en/free_country,united_states
+long-term commitments,2,en,1.0,HasA,/c/en/long_term_commitments,united_states
+a flag,2,en,1.0,HasA,/c/en/flag,united_states
+nation's name,2,en,1.0,HasContext,/c/en/nation's_name,united_states
+an international affair,3,en,1.0,AtLocation,/c/en/international_affair,united_states
+a State,2,en,1.0,IsA,/c/en/state,united_states
+bullying other countries,3,en,1.0,UsedFor,/c/en/bullying_other_countries,united_states
+usa,1,en,1.0,Synonym,/c/en/usa,united_states
+near Mexico,2,en,1.0,IsA,/c/en/near_mexico,united_states
+a respectable military,3,en,1.0,HasA,/c/en/respectable_military,united_states
+too many laws,3,en,1.0,HasA,/c/en/too_many_laws,united_states
+in north america,3,en,1.0,IsA,/c/en/in_north_america,united_states
+a wealthy nation,3,en,1.0,IsA,/c/en/wealthy_nation,united_states
+a big country,3,en,1.0,IsA,/c/en/big_country,united_states
+discuss democratic government,3,en,1.0,UsedFor,/c/en/discuss_democratic_government,united_states
+a young country,3,en,1.0,IsA,/c/en/young_country,united_states
+ee uu,2,es,1.0,Synonym,/c/es/ee_uu,united_states
+usania,1,en,1.0,Synonym,/c/en/usania,united_states
+helping other countries,3,en,1.0,UsedFor,/c/en/helping_other_countries,united_states
+an atlas,2,en,1.0,AtLocation,/c/en/atlas,united_states
+a country,2,en,1.0,UsedFor,/c/en/country,united_states
+military,1,en,1.0,HasContext,/c/en/military,united_states
+estados unidos,2,es,1.0,Synonym,/c/es/estados_unidos,united_states
+50 States,2,en,1.0,HasA,/c/en/50_states,united_states
+protect you,2,en,1.0,UsedFor,/c/en/protect,united_states
+united mexican states,3,en,1.0,RelatedTo,/c/en/united_mexican_states,united_states
