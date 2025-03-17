@@ -1,11 +1,11 @@
-# Homework 02 = Text Mining
+# A Temporal Analysis of Song Lyrics and Social Concerns in the U.S.
 
 ## Project Description
-This project involves developing a pipeline for dictionary generation from a text corpus. The goal is to track specific vocabulary within the corpus using a dictionary method. The project requires selecting a relevant corpus, defining the vocabulary categories, and implementing a methodology to extract meaningful insights.
+This project aims to explore the relationship between the content of lyrics from the Billboard Top 100 list and the most common searches on Google Trends by U.S. citizens from 2004 to 2024. The primary purpose is to identify whether there is a connection between the two or any notable patterns over time.
 
 ## Project Structure
 ```
-textmining_hw02/
+Text_mining_final_project/
 |-- documents/                  # Documents for the project
 |   |-- Gentzkow (2010).pdf
 |   |-- Hassan (2019).pdf
@@ -56,19 +56,16 @@ pip install -r requirements.txt
 
 ## Methodology
 1. **Data Collection**
-   - The corpus consists of diverse text sources, ensuring topic coverage.
-   - Metadata is extracted to categorize documents over time.
+   - blabla
 2. **Dictionary Generation**
-   - Uses TF-IDF and predefined heuristics to build dictionaries.
-   - Inspired by approaches from Gentzkow & Shapiro (2010), Hassan et al. (2019), and García-Uribe (2024).
+   - blabla
 3. **Analysis**
-   - Computes dictionary term distributions across metadata groups.
-   - Explores patterns and relationships within the corpus.
-
+   - blabla
+   - 
 ## Contributions
 This project is an academic exercise in text mining and dictionary-based analysis. Ethical considerations apply when scraping and analyzing text data.
 
 ## References
-- Gentzkow, M., & Shapiro, J. (2010). Media Bias and Reputation.
-- Hassan, T. A., et al. (2019). Firm-Level Political Risk: Measurement and Effects.
-- García-Uribe, S., et al. (2024). Economic Uncertainty and Divisive Politics.
+- Juan
+- Trump
+- Adam
