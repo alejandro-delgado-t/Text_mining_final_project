@@ -1,0 +1,193 @@
+label,num_words,language,weight,type_relation,term_conceptnet,input_term,weight_normalized,label_lower
+well,1,en,2.442949037536396,RelatedTo,/c/en/well,health,8.892176439312824,well
+wellbeing,1,en,2.0,IsA,/c/en/wellbeing,health,7.38661714350238,wellbeing
+condition,1,en,2.0,IsA,/c/en/condition,health,7.38661714350238,condition
+good,1,en,1.983,RelatedTo,/c/en/good,health,7.328835083130087,good
+well being,2,en,1.829,RelatedTo,/c/en/well_being,health,6.805397595051658,well
+body,1,en,1.625,RelatedTo,/c/en/body,health,6.11201287058413,body
+healthiness,1,en,1.0,Synonym,/c/en/healthiness,health,3.9876724157203793,healthiness
+sanidad,1,es,1.0,Synonym,/c/es/sanidad,health,3.9876724157203793,sanidad
+heartiness,1,en,1.0,Synonym,/c/en/heartiness,health,3.9876724157203793,heartiness
+malfunction,1,en,1.0,RelatedTo,/c/en/malfunction,health,3.9876724157203793,malfunction
+toast,1,en,1.0,RelatedTo,/c/en/toast,health,3.9876724157203793,toast
+everyone,1,en,1.0,UsedFor,/c/en/everyone,health,3.9876724157203793,everyone
+function,1,en,1.0,RelatedTo,/c/en/function,health,3.9876724157203793,function
+mental,1,en,1.0,RelatedTo,/c/en/mental,health,3.9876724157203793,mental
+video games,2,en,1.0,HasContext,/c/en/video_games,health,3.9876724157203793,video games
+prosperity,1,en,1.0,RelatedTo,/c/en/prosperity,health,3.9876724157203793,prosperity
+organism,1,en,1.0,RelatedTo,/c/en/organism,health,3.9876724157203793,organism
+physical,1,en,1.0,RelatedTo,/c/en/physical,health,3.9876724157203793,physical
+whole,1,en,1.0,DerivedFrom,/c/en/whole,health,3.9876724157203793,whole
+heal,1,en,1.0,RelatedTo,/c/en/heal,health,3.9876724157203793,heal
+salud,1,es,1.0,Synonym,/c/es/salud,health,3.9876724157203793,salud
+social,1,en,1.0,RelatedTo,/c/en/social,health,3.9876724157203793,social
+illness,1,en,1.0,DistinctFrom,/c/en/illness,health,3.9876724157203793,illness
+state,1,en,1.0,RelatedTo,/c/en/state,health,3.9876724157203793,state
+disease,1,en,1.0,RelatedTo,/c/en/disease,health,3.9876724157203793,disease
+sickness,1,en,1.0,DistinctFrom,/c/en/sickness,health,3.9876724157203793,sickness
+robustness,1,en,1.0,Synonym,/c/en/robustness,health,3.9876724157203793,robustness
+important,1,en,1.0,HasProperty,/c/en/important,health,3.9876724157203793,important
+psychological,1,en,1.0,RelatedTo,/c/en/psychological,health,3.9876724157203793,psychological
+wellness,1,en,1.0,RelatedTo,/c/en/wellness,health,3.9876724157203793,wellness
+balance,1,en,1.0,RelatedTo,/c/en/balance,health,3.9876724157203793,balance
+sick,1,en,0.971,DistinctFrom,/c/en/sick,health,3.889103018614701,sick
+medical,1,en,0.722,RelatedTo,/c/en/medical,health,3.042765781396983,medical
+feeling good,2,en,0.657,RelatedTo,/c/en/feeling_good,health,2.8218343740911527,feeling good
+feeling,1,en,0.657,RelatedTo,/c/en/feeling,health,2.8218343740911527,feeling
+fitness,1,en,0.5379999999999998,RelatedTo,/c/en/fitness,health,2.4173599514850936,fitness
+being well,2,en,0.5329999999999999,RelatedTo,/c/en/being_well,health,2.4003652278461844,well
+status,1,en,0.5270000000000001,RelatedTo,/c/en/status,health,2.3799715594794932,status
+health,1,en,0.5,Synonym,/c/en/health,health,2.288200051829379,health
+ill,1,en,0.387,DistinctFrom,/c/en/ill,health,1.9041192975900123,ill
+fat,1,en,0.173,Antonym,/c/en/fat,health,1.176745125844664,fat
+sickly,1,en,0.141,Antonym,/c/en/sickly,health,1.0679788945556399,sickly
+death,1,en,0.121,Antonym,/c/en/death,health,1.0,death
+natural virtue,2,en,2.0,IsA,/c/en/natural_virtue,justice,9.0,natural virtue
+court,1,en,2.0,RelatedTo,/c/en/court,justice,9.0,court
+Department of Justice,3,en,2.0,Synonym,/c/en/department_of_justice,justice,9.0,department justice
+judgment,1,en,2.0,IsA,/c/en/judgment,justice,9.0,judgment
+judge,1,en,2.0,Synonym,/c/en/judge,justice,9.0,judge
+righteousness,1,en,2.0,IsA,/c/en/righteousness,justice,9.0,righteousness
+judiciary,1,en,1.0,RelatedTo,/c/en/judiciary,justice,4.719636169074371,judiciary
+justeza,1,es,1.0,Synonym,/c/es/justeza,justice,4.719636169074371,justeza
+certain rules,2,en,1.0,HasA,/c/en/certain_rules,justice,4.719636169074371,certain rules
+injustice,1,en,1.0,Antonym,/c/en/injustice,justice,4.719636169074371,injustice
+fairness,1,en,1.0,RelatedTo,/c/en/fairness,justice,4.719636169074371,fairness
+title,1,en,1.0,RelatedTo,/c/en/title,justice,4.719636169074371,title
+judicial,1,en,1.0,RelatedTo,/c/en/judicial,justice,4.719636169074371,judicial
+capitalize,1,en,1.0,RelatedTo,/c/en/capitalize,justice,4.719636169074371,capitalize
+law,1,en,1.0,RelatedTo,/c/en/law,justice,4.719636169074371,law
+justiciar,1,en,1.0,Synonym,/c/en/justiciar,justice,4.719636169074371,justiciar
+wrongdoing,1,en,1.0,RelatedTo,/c/en/wrongdoing,justice,4.719636169074371,wrongdoing
+blind,1,en,1.0,HasProperty,/c/en/blind,justice,4.719636169074371,blind
+impartiality,1,en,1.0,RelatedTo,/c/en/impartiality,justice,4.719636169074371,impartiality
+all people,2,en,1.0,UsedFor,/c/en/all_people,justice,4.719636169074371,people
+justicia,1,es,1.0,Synonym,/c/es/justicia,justice,4.719636169074371,justicia
+wrong,1,en,1.0,RelatedTo,/c/en/wrong,justice,4.719636169074371,wrong
+fair,1,en,1.0,RelatedTo,/c/en/fair,justice,4.719636169074371,fair
+justedad,1,es,1.0,Synonym,/c/es/justedad,justice,4.719636169074371,justedad
+civil,1,en,1.0,RelatedTo,/c/en/civil,justice,4.719636169074371,civil
+conform,1,en,1.0,RelatedTo,/c/en/conform,justice,4.719636169074371,conform
+correctness,1,en,1.0,RelatedTo,/c/en/correctness,justice,4.719636169074371,correctness
+right wrongs,2,en,1.0,CapableOf,/c/en/right_wrongs,justice,4.719636169074371,right wrongs
+judicious,1,en,1.0,RelatedTo,/c/en/judicious,justice,4.719636169074371,judicious
+alleged,1,en,1.0,RelatedTo,/c/en/alleged,justice,4.719636169074371,alleged
+punishment,1,en,1.0,RelatedTo,/c/en/punishment,justice,4.719636169074371,punishment
+system,1,en,0.3639999999999999,RelatedTo,/c/en/system,justice,1.9973247726056702,system
+scales,1,en,0.355,RelatedTo,/c/en/scales,justice,1.95880149812734,scales
+equality,1,en,0.3269999999999999,RelatedTo,/c/en/equality,justice,1.8389513108614222,equality
+scales of,2,en,0.217,RelatedTo,/c/en/scales_of,justice,1.3681112894596033,scales
+law system,2,en,0.2040000000000001,RelatedTo,/c/en/law_system,justice,1.3124665596575704,law system
+retribution,1,en,0.173,RelatedTo,/c/en/retribution,justice,1.1797752808988755,retribution
+idea,1,en,0.173,RelatedTo,/c/en/idea,justice,1.1797752808988755,idea
+liberty,1,en,0.1680000000000001,RelatedTo,/c/en/liberty,justice,1.1583734617442478,liberty
+unfair,1,en,0.1310000000000002,Antonym,/c/en/unfair,justice,1.0,unfair
+a bank,2,en,7.745966692414834,AtLocation,/c/en/bank,money,9.0,bank
+a wallet,2,en,7.483314773547882,AtLocation,/c/en/wallet,money,8.688522720798751,wallet
+cash,1,en,5.338164478545036,RelatedTo,/c/en/cash,money,6.144602309908075,cash
+currency,1,en,5.214211349763261,RelatedTo,/c/en/currency,money,5.997607064383192,currency
+a pocket,2,en,4.898979485566356,AtLocation,/c/en/pocket,money,5.623775554599603,pocket
+dollars,1,en,4.544447161096715,RelatedTo,/c/en/dollars,money,5.203337873081517,dollars
+coins,1,en,4.277382377108691,RelatedTo,/c/en/coins,money,4.886627404542368,coins
+value,1,en,3.2972715993681803,RelatedTo,/c/en/value,money,3.7243201208819876,value
+paper,1,en,3.17742033731768,RelatedTo,/c/en/paper,money,3.582189253636217,paper
+dollar,1,en,3.1343260838655578,RelatedTo,/c/en/dollar,money,3.5310840461342856,dollar
+green,1,en,3.130495168499705,RelatedTo,/c/en/green,money,3.5265409873964946,green
+bills,1,en,2.9725410005582766,RelatedTo,/c/en/bills,money,3.339224120719365,bills
+buy food,2,en,2.82842712474619,CapableOf,/c/en/buy_food,money,3.168320370513627,buy food
+cents,1,en,2.1391587131393504,RelatedTo,/c/en/cents,money,2.3509212423716477,cents
+buying,1,en,2.0396078054371145,RelatedTo,/c/en/buying,money,2.232864439257964,buying
+fix a computer,3,en,2.0,CausesDesire,/c/en/fix_computer,money,2.1858937888020114,fix computer
+medium of exchange,3,en,2.0,IsA,/c/en/medium_of_exchange,money,2.1858937888020114,medium exchange
+money supply,2,en,2.0,PartOf,/c/en/money_supply,money,2.1858937888020114,money supply
+pay for something,3,en,2.0,UsedFor,/c/en/pay_for,money,2.1858937888020114,pay something
+a casino,2,en,2.0,AtLocation,/c/en/casino,money,2.1858937888020114,casino
+wealth,1,en,2.0,IsA,/c/en/wealth,money,2.1858937888020114,wealth
+saving,1,en,2.0,UsedFor,/c/en/saving,money,2.1858937888020114,saving
+buy Christmas presents,3,en,2.0,CausesDesire,/c/en/buy_christmas_presents,money,2.1858937888020114,buy christmas presents
+the sock drawer,3,en,2.0,AtLocation,/c/en/sock_drawer,money,2.1858937888020114,sock drawer
+the purse,2,en,2.0,AtLocation,/c/en/purse,money,2.1858937888020114,purse
+the supermarket,2,en,2.0,AtLocation,/c/en/supermarket,money,2.1858937888020114,supermarket
+a cash register,3,en,2.0,AtLocation,/c/en/cash_register,money,2.1858937888020114,cash register
+obtain things,2,en,2.0,UsedFor,/c/en/obtain_things,money,2.1858937888020114,obtain things
+a vault,2,en,2.0,AtLocation,/c/en/vault,money,2.1858937888020114,vault
+pay for sex,3,en,2.0,UsedFor,/c/en/pay_for_sex,money,2.1858937888020114,pay sex
+spending,1,en,1.323,RelatedTo,/c/en/spending,money,1.3830436937830495,spending
+dollars cents,2,en,1.3010000000000002,RelatedTo,/c/en/dollars_cents,money,1.3569540304294057,dollars cents
+payment,1,en,1.298,RelatedTo,/c/en/payment,money,1.3533963490629994,payment
+banks,1,en,1.241,RelatedTo,/c/en/banks,money,1.2858004031012849,banks
+wallet,1,en,1.174,RelatedTo,/c/en/wallet,money,1.20634551925155,wallet
+coins bills,2,en,1.144,RelatedTo,/c/en/coins_bills,money,1.1707687055874896,coins bills
+bill,1,en,1.128,RelatedTo,/c/en/bill,money,1.1517944049666573,bill
+term,1,en,1.0750000000000002,RelatedTo,/c/en/term,money,1.088942034160151,term
+be coming in,3,en,1.0,CapableOf,/c/en/coming_in,money,1.0,coming
+the carpet,2,en,1.0,AtLocation,/c/en/carpet,money,1.0,carpet
+tail a suspect,3,en,3.4641016151377544,CapableOf,/c/en/tail_suspect,police,9.0,tail suspect
+donut shop,2,en,2.82842712474619,AtLocation,/c/en/donut_shop,police,6.936206895084471,donut shop
+patrol,1,en,2.0,Synonym,/c/en/patrol,police,4.246619356463822,patrol
+law enforcement agency,3,en,2.0,IsA,/c/en/law_enforcement_agency,police,4.246619356463822,law enforcement agency
+force,1,en,2.0,IsA,/c/en/force,police,4.246619356463822,force
+direct traffic,2,en,2.0,CapableOf,/c/en/direct_traffic,police,4.246619356463822,direct traffic
+guard banks,2,en,1.0,CapableOf,/c/en/guard_banks,police,1.0,guard banks
+government,1,en,1.0,PartOf,/c/en/government,police,1.0,government
+free a prisoner,3,en,1.0,CapableOf,/c/en/free_prisoner,police,1.0,free prisoner
+hurry drivers,2,en,1.0,CapableOf,/c/en/hurry_drivers,police,1.0,hurry drivers
+case a building,3,en,1.0,CapableOf,/c/en/case_building,police,1.0,case building
+arrest,1,en,1.0,CapableOf,/c/en/arrest,police,1.0,arrest
+law enforcement,2,en,1.0,RelatedTo,/c/en/law_enforcement,police,1.0,law enforcement
+bring misery,2,en,1.0,CapableOf,/c/en/bring_misery,police,1.0,bring misery
+arm themselves,2,en,1.0,CapableOf,/c/en/arm_themselves,police,1.0,arm
+catch a thief,3,en,1.0,CapableOf,/c/en/catch_thief,police,1.0,catch thief
+carry a gun,3,en,1.0,CapableOf,/c/en/carry_gun,police,1.0,carry gun
+public,1,en,1.0,RelatedTo,/c/en/public,police,1.0,public
+the police station,3,en,1.0,AtLocation,/c/en/police_station,police,1.0,police station
+arm their weapons,3,en,1.0,CapableOf,/c/en/arm_weapons,police,1.0,arm weapons
+book a criminal,3,en,1.0,CapableOf,/c/en/book_criminal,police,1.0,book criminal
+order,1,en,1.0,RelatedTo,/c/en/order,police,1.0,order
+board vessels,2,en,1.0,CapableOf,/c/en/board_vessels,police,1.0,board vessels
+caribbean,1,en,1.0,HasContext,/c/en/caribbean,police,1.0,caribbean
+notice problems,2,en,1.0,CapableOf,/c/en/notice_problems,police,1.0,notice problems
+scare people,2,en,1.0,UsedFor,/c/en/scare_people,police,1.0,scare people
+force the law,3,en,1.0,CapableOf,/c/en/force_law,police,1.0,force law
+corner a suspect,3,en,1.0,CapableOf,/c/en/corner_suspect,police,1.0,corner suspect
+stop speeding cars,3,en,1.0,CapableOf,/c/en/stop_speeding_cars,police,1.0,stop speeding cars
+job,1,en,1.0,IsA,/c/en/job,police,1.0,job
+tail a criminal,3,en,1.0,CapableOf,/c/en/tail_criminal,police,1.0,tail criminal
+corner a criminal,3,en,1.0,CapableOf,/c/en/corner_criminal,police,1.0,corner criminal
+move a car,3,en,1.0,CausesDesire,/c/en/move_car,police,1.0,move car
+maintain,1,en,1.0,RelatedTo,/c/en/maintain,police,1.0,maintain
+hunting the thieves,3,en,1.0,IsA,/c/en/hunting_thieves,police,1.0,hunting thieves
+people,1,en,1.0,IsA,/c/en/people,police,1.0,people
+legal,1,en,1.0,RelatedTo,/c/en/legal,police,1.0,legal
+regional,1,en,1.0,HasContext,/c/en/regional,police,1.0,regional
+guard prisoners,2,en,1.0,CapableOf,/c/en/guard_prisoners,police,1.0,guard prisoners
+help people,2,en,1.0,CapableOf,/c/en/help_people,police,1.0,help people
+activity,1,en,2.0,IsA,/c/en/activity,politics,9.0,activity
+profession,1,en,2.0,IsA,/c/en/profession,politics,9.0,profession
+social science,2,en,2.0,IsA,/c/en/social_science,politics,9.0,social science
+government,1,en,2.0,HasContext,/c/en/government,politics,9.0,government
+affairs,1,en,2.0,IsA,/c/en/affairs,politics,9.0,affairs
+politics,1,en,2.0,HasContext,/c/en/politics,politics,9.0,politics
+opinion,1,en,2.0,IsA,/c/en/opinion,politics,9.0,opinion
+social relation,2,en,2.0,IsA,/c/en/social_relation,politics,9.0,social relation
+methodology,1,en,1.0,RelatedTo,/c/en/methodology,politics,1.0,methodology
+social event,2,en,1.0,IsA,/c/en/social_event,politics,1.0,social event
+what politicians do,3,en,1.0,IsA,/c/en/what_politicians_do,politics,1.0,politicians
+diplomacy,1,en,1.0,RelatedTo,/c/en/diplomacy,politics,1.0,diplomacy
+polite,1,en,1.0,RelatedTo,/c/en/polite,politics,1.0,polite
+policy,1,en,1.0,RelatedTo,/c/en/policy,politics,1.0,policy
+politic,1,en,1.0,FormOf,/c/en/politic,politics,1.0,politic
+police,1,en,1.0,RelatedTo,/c/en/police,politics,1.0,police
+the office,2,en,1.0,AtLocation,/c/en/office,politics,1.0,office
+divide families,2,en,1.0,CapableOf,/c/en/divide_families,politics,1.0,divide families
+polity,1,en,1.0,RelatedTo,/c/en/polity,politics,1.0,polity
+política,1,es,1.0,Synonym,/c/es/política,politics,1.0,pol tica
+a university,2,en,1.0,AtLocation,/c/en/university,politics,1.0,university
+wage war,2,en,1.0,CausesDesire,/c/en/wage_war,politics,1.0,wage war
+spread ideas,2,en,1.0,CapableOf,/c/en/spread_ideas,politics,1.0,spread ideas
+human leadership interaction,3,en,1.0,DefinedAs,/c/en/human_leadership_interaction,politics,1.0,human leadership interaction
+health,1,en,,,/c/en/health,health,10.0,health
+money,1,en,,,/c/en/money,money,10.0,money
+justice,1,en,,,/c/en/justice,justice,10.0,justice
+police,1,en,,,/c/en/police,police,10.0,police
+politics,1,en,,,/c/en/politics,politics,10.0,politics
